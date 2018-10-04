@@ -1,1 +1,4 @@
-The instructions for this onboarding can found at the [New Member Onbaording Training](https://docs.google.com/document/d/10z437tcz8-Uf_frnuWjzvteF994eBiVgWAKEOqBmoUw/edit) Google Doc.
+# Onboarding e
+Scraps data from [NFL Combine](http://nflcombineresults.com/nflcombinedata.php) and updates MySQL database.
+
+![MySQL datasbase](img/Screen Shot 2018-10-03 at 9.41.37 PM.png)
